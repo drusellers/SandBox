@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{D994E136-3A00-4F71-8CAC-04656DEFDC24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fohjin.AppDomainLoader", "Fohjin.AppDomainLoader\Fohjin.AppDomainLoader.csproj", "{89067662-19B8-4900-84ED-5A59FD318FF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D994E136-3A00-4F71-8CAC-04656DEFDC24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D994E136-3A00-4F71-8CAC-04656DEFDC24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D994E136-3A00-4F71-8CAC-04656DEFDC24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D994E136-3A00-4F71-8CAC-04656DEFDC24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89067662-19B8-4900-84ED-5A59FD318FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89067662-19B8-4900-84ED-5A59FD318FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89067662-19B8-4900-84ED-5A59FD318FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89067662-19B8-4900-84ED-5A59FD318FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
